@@ -1,0 +1,9 @@
+name: EdenSpawners
+version: '${project.version}'
+main: at.haha007.edenspawners.EdenSpawners
+api-version: 1.18
+authors: [ Haha007 ]
+description: EdenSpawners
+commands:
+  spawner:
+    permission: edenspawners.spawner.command
